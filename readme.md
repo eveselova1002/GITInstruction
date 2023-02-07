@@ -18,6 +18,8 @@
 
      * *git checkout master - чтобы вернуться в тот коммит, где мы работаем*
 
+     * *git checkout branch_name - чтобы перейти на ветку с именем branch_name
+
 
 6. git config --global user.email 'you@example.com' - сообщаем гиту свою почту, чтобы гиту был понятен пользователь
 
